@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="address">C.P. Colony\nGwalior </string>
+    <string name="number">8989673944</string>
+    <string name="company_name">evolution</string>
+    <string name="owner_name">Vineet Prasad Verma</string>
+    <string name="tagline">#Be different, make the difference#</string>
+    <string name="description">EVOLUTION is a new company that provides expertise in search marketing solutions for business on a worldwide basis, including website promotion, online advertising and search engine optimization techniques to improve its clients positioning in the search engines</string>
+    <string name="email">vineetpd1996@gmail.com</string>
+</resources>
